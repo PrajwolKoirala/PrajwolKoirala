@@ -2,7 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;Problem+Solver;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=600&lines=%2F%2F+Loading+profile+information...;const+profile+%3D+%7B;++++name%3A+%22Prajwol+Koirala%22%2C+++++%2F%2F+%F0%9F%91%8B+Hi+there!;++++title%3A+%22Full+Stack+Dev%22%2C+++++%2F%2F+%F0%9F%92%BB+What+I+do;++++location%3A+%22Nepal%22%2C+++++%2F%2F+%F0%9F%8C%8D+Where+I+am;++++interests%3A+%5B%22Web+Dev%22%2C+%22Blockchain%22%5D%2C;++++learning%3A+%5B%22Web3%22%2C+%22Cloud%22%5D%2C;++++reachOut%3A+%22Let's+collaborate!%22;%7D)](https://git.io/typing-svg)
+
+</div>
+
+
 
 ```javascript
 // Loading profile information...
@@ -27,6 +31,7 @@ const profile = {
 
 </div>
 
+[rest of your profile content remains the same...]
 ## 👨‍💻 Full Stack Developer | Blockchain Enthusiast | Problem Solver
 
 I'm passionate about creating innovative solutions and building cutting-edge applications. From frontend magic to backend architecture, I love working across the entire stack!
