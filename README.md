@@ -43,18 +43,18 @@ I'm passionate about creating innovative solutions and building cutting-edge app
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrajwolKoirala&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwolKoirala&theme=radical" alt="GitHub Streak" />
 </div>
 
 ### 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project1&theme=radical" />
+  <a href="https://github.com/PrajwolKoirala/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrajwolKoirala&repo=project1&theme=radical" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project2&theme=radical" />
+  <a href="https://github.com/PrajwolKoirala/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrajwolKoirala&repo=project2&theme=radical" />
   </a>
 </div>
 
@@ -71,5 +71,5 @@ I'm passionate about creating innovative solutions and building cutting-edge app
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PrajwolKoirala&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
