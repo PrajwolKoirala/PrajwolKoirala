@@ -45,7 +45,7 @@ I'm passionate about creating innovative solutions and building cutting-edge app
 
 <div align="center">
   <a href="https://github.com/PrajwolKoirala/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project1&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrajwolKoirala&repo=project1&theme=radical" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project2&theme=radical" />
