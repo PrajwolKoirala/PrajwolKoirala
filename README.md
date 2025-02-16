@@ -3,7 +3,12 @@
 <div align="center">
   <img src="/api/placeholder/800/300" alt="banner" />
 </div>
-
+const profile = {
+  title: "Full Stack Developer",
+  location: "🌍",
+  interests: ["Web Development", "Blockchain", "Problem Solving"],
+  currentlyLearning: "Always exploring new technologies",
+};
 ## 👨‍💻 Full Stack Developer | Blockchain Enthusiast | Problem Solver
 
 I'm passionate about creating innovative solutions and building cutting-edge applications. From frontend magic to backend architecture, I love working across the entire stack!
