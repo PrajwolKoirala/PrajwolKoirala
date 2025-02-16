@@ -1,14 +1,14 @@
 # Hi there, I'm Prajwol Koirala! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<div align="center">
-  <img src="/api/placeholder/800/300" alt="banner" />
-</div>
+```typescript
 const profile = {
   title: "Full Stack Developer",
   location: "🌍",
   interests: ["Web Development", "Blockchain", "Problem Solving"],
   currentlyLearning: "Always exploring new technologies",
 };
+```
+
 ## 👨‍💻 Full Stack Developer | Blockchain Enthusiast | Problem Solver
 
 I'm passionate about creating innovative solutions and building cutting-edge applications. From frontend magic to backend architecture, I love working across the entire stack!
@@ -27,6 +27,7 @@ I'm passionate about creating innovative solutions and building cutting-edge app
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 #### Backend
@@ -42,18 +43,18 @@ I'm passionate about creating innovative solutions and building cutting-edge app
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrajwolKoirala&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwolKoirala&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
 </div>
 
 ### 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/PrajwolKoirala/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrajwolKoirala&repo=project1&theme=radical" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project1&theme=radical" />
   </a>
-  <a href="https://github.com/PrajwolKoirala/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrajwolKoirala&repo=project2&theme=radical" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project2&theme=radical" />
   </a>
 </div>
 
