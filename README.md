@@ -4,27 +4,64 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;Problem+Solver;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-```javascript
-// Loading profile information...
-const profile = {
-    name: "Prajwol Koirala",     // 👋 Hi there!
-    title: "Full Stack Dev",      // 💻 What I do
-    location: "Nepal",            // 🌍 Where I am
-    interests: [                  // 🚀 What I love
-        "Web Development",
-        "Blockchain",
-        "Problem Solving",
-        "Innovation"
-    ],
-    currentlyLearning: [          // 📚 Always growing
-        "Advanced Web3",
-        "System Architecture",
-        "Cloud Solutions"
-    ],
-    reachOut: "Let's collaborate!"// 🤝 Open to opportunities
-};
-```
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/2000/svg" style="height: 100%">
+      <style>
+        .container {
+          background-color: #1a1b26;
+          border-radius: 10px;
+          padding: 20px;
+          font-family: monospace;
+          color: #a9b1d6;
+          height: 100%;
+        }
+        
+        @keyframes type1 { from { width: 0; } }
+        @keyframes blink {
+          50% { opacity: 0; }
+        }
 
+        .line {
+          white-space: nowrap;
+          overflow: hidden;
+          animation: type1 2s steps(60, end);
+        }
+        
+        .cursor {
+          animation: blink 1s infinite;
+        }
+        
+        .comment { color: #565f89; }
+        .string { color: #9ece6a; }
+        .keyword { color: #bb9af7; }
+        .bracket { color: #89ddff; }
+      </style>
+
+      <div class="container">
+        <pre style="margin: 0;">
+<span class="line"><span class="keyword">const</span> profile = <span class="bracket">{</span></span>
+<span class="line">    name: <span class="string">"Prajwol Koirala"</span>,     <span class="comment">// 👋 Hi there!</span></span>
+<span class="line">    title: <span class="string">"Full Stack Dev"</span>,      <span class="comment">// 💻 What I do</span></span>
+<span class="line">    location: <span class="string">"Nepal"</span>,            <span class="comment">// 🌍 Where I am</span></span>
+<span class="line">    interests: [                  <span class="comment">// 🚀 What I love</span></span>
+<span class="line">        <span class="string">"Web Development"</span>,</span>
+<span class="line">        <span class="string">"Blockchain"</span>,</span>
+<span class="line">        <span class="string">"Problem Solving"</span>,</span>
+<span class="line">        <span class="string">"Innovation"</span></span>
+<span class="line">    ],</span>
+<span class="line">    currentlyLearning: [         <span class="comment">// 📚 Always growing</span></span>
+<span class="line">        <span class="string">"Advanced Web3"</span>,</span>
+<span class="line">        <span class="string">"System Architecture"</span>,</span>
+<span class="line">        <span class="string">"Cloud Solutions"</span></span>
+<span class="line">    ],</span>
+<span class="line">    reachOut: <span class="string">"Let's collaborate!"</span><span class="comment">// 🤝 Open to opportunities</span></span>
+<span class="line"><span class="bracket">};</span><span class="cursor">▊</span></span>
+        </pre>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 </div>
 
 [rest of your profile content remains the same...]
