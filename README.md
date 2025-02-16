@@ -1,26 +1,69 @@
-# Hi there, I'm [John Doe] 👋
+# Hi there, I'm Prajwol Koirala! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm a passionate developer with a love for coding and solving problems!
+<div align="center">
+  <img src="/api/placeholder/800/300" alt="banner" />
+</div>
 
-![Profile Picture](https://yourprofilepictureurl)
+## 👨‍💻 Full Stack Developer | Blockchain Enthusiast | Problem Solver
 
-## 🌱 Currently Learning:
-- React.js
-- Python
-- AWS
+I'm passionate about creating innovative solutions and building cutting-edge applications. From frontend magic to backend architecture, I love working across the entire stack!
 
-## 🚀 Technologies & Tools:
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🚀 Tech Stack & Tools
 
-## 📈 GitHub Stats:
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&hide_title=true&hide=prs&count_private=true)
+<div align="center">
 
-## 🌍 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/johndoe)
-- [Twitter](https://twitter.com/johndoe)
-- [Personal Website](https://www.johndoe.com)
+#### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-## 📌 My Top Repositories:
-- [My Awesome Project](https://github.com/johnDoe/awesome-project)
-- [Another Great Repo](https://github.com/johnDoe/another-repo)
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+</div>
+
+### 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project2&theme=radical" />
+  </a>
+</div>
+
+### 🤝 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://YOUR_PORTFOLIO)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
