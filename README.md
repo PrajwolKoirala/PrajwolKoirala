@@ -1,13 +1,31 @@
 # Hi there, I'm Prajwol Koirala! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-```typescript
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;Problem+Solver;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+```javascript
+// Loading profile information...
 const profile = {
-  title: "Full Stack Developer",
-  location: "🌍",
-  interests: ["Web Development", "Blockchain", "Problem Solving"],
-  currentlyLearning: "Always exploring new technologies",
+    name: "Prajwol Koirala",     // 👋 Hi there!
+    title: "Full Stack Dev",      // 💻 What I do
+    location: "Nepal",            // 🌍 Where I am
+    interests: [                  // 🚀 What I love
+        "Web Development",
+        "Blockchain",
+        "Problem Solving",
+        "Innovation"
+    ],
+    currentlyLearning: [          // 📚 Always growing
+        "Advanced Web3",
+        "System Architecture",
+        "Cloud Solutions"
+    ],
+    reachOut: "Let's collaborate!"// 🤝 Open to opportunities
 };
 ```
+
+</div>
 
 ## 👨‍💻 Full Stack Developer | Blockchain Enthusiast | Problem Solver
 
@@ -50,11 +68,11 @@ I'm passionate about creating innovative solutions and building cutting-edge app
 ### 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/PrajwolKoirala/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrajwolKoirala&repo=project1&theme=radical" />
+  <a href="https://github.com/PrajwolKoirala/agriculture-supply-chain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrajwolKoirala&repo=agriculture-supply-chain&theme=radical" />
   </a>
-  <a href="https://github.com/PrajwolKoirala/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrajwolKoirala&repo=project2&theme=radical" />
+  <a href="https://github.com/PrajwolKoirala/KUfest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrajwolKoirala&repo=KUfest&theme=radical" />
   </a>
 </div>
 
