@@ -27,7 +27,6 @@ const profile = {
 
 </div>
 
-[rest of your profile content remains the same...]
 ## 👨‍💻 Full Stack Developer | Blockchain Enthusiast | Problem Solver
 
 I'm passionate about creating innovative solutions and building cutting-edge applications. From frontend magic to backend architecture, I love working across the entire stack!
