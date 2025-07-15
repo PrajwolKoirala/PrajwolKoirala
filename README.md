@@ -12,84 +12,214 @@
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
 ## 🌟 **About Me**
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+      </td>
+      <td>
+
 ```typescript
-interface Developer {
-  name: string;
-  title: string;
-  location: string;
-  experience: string;
-  specialties: string[];
-  currentFocus: string[];
-  philosophy: string;
+class PrajwolKoirala extends Developer {
+  constructor() {
+    super();
+    this.name = "Prajwol Koirala";
+    this.title = "Full Stack Wizard 🧙‍♂️";
+    this.location = "Nepal 🇳🇵";
+    this.experience = "4+ years of digital sorcery";
+    this.motto = "Code is art, bugs are just happy accidents! 🎨";
+  }
+
+  getCurrentStatus(): string {
+    return "Transforming caffeine into code ☕ → 💻";
+  }
+
+  getSuperpowers(): string[] {
+    return [
+      "🚀 Building scalable applications",
+      "⛓️ Crafting blockchain solutions", 
+      "🎨 Creating pixel-perfect UIs",
+      "🔧 Architecting robust systems",
+      "🌟 Turning ideas into reality"
+    ];
+  }
+
+  getLifePhilosophy(): string {
+    return "Dream in code, debug in reality! 💭";
+  }
 }
 
-const prajwol: Developer = {
-  name: "Prajwol Koirala",
-  title: "Full Stack Developer & Blockchain Architect",
-  location: "Nepal 🇳🇵",
-  experience: "Building scalable solutions since 2020",
-  specialties: [
-    "🚀 Full Stack Development",
-    "⛓️ Blockchain & Web3",
-    "🏗️ System Architecture",
-    "🎨 UI/UX Design",
-    "☁️ Cloud Solutions"
-  ],
-  currentFocus: [
-    "Advanced DeFi Protocols",
-    "Microservices Architecture", 
-    "AI Integration",
-    "Performance Optimization"
-  ],
-  philosophy: "Code is poetry, bugs are just misplaced semicolons! 🎭"
-};
+const developer = new PrajwolKoirala();
+console.log(developer.getCurrentStatus());
+// Output: "Transforming caffeine into code ☕ → 💻"
 ```
+
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
+<div align="center">
+  
+### 🎯 **My Mission**
+> *"To build technology that doesn't just work, but inspires and transforms lives"*
+
+**🌟 Current Focus Areas:**
+- 🔥 **DeFi Revolution** - Building next-gen financial protocols
+- 🤖 **AI Integration** - Merging intelligence with blockchain
+- 🌐 **Web3 Innovation** - Decentralizing the digital world
+- 🎨 **UX Excellence** - Making complex simple and beautiful
+
+</div>
+
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  
+  ### ⚡ **The Weapons of Mass Creation** ⚡
+</div>
 
-### **Languages & Core**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+        <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-a4d9-4a6a-9dc4-7eec1of92a4e.gif" width="100">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7320d7.gif" width="100">
+      </td>
+      <td align="center" width="50%">
+        <h3>🔥 **FRONTEND MASTERY** 🔥</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,sass,figma&theme=dark" />
+        <br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwolKoirala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### **Frontend Mastery**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=35495E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-### **Backend Power**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=43853D)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=E0234E)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=404D59)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>⚡ **BACKEND POWERHOUSE** ⚡</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,graphql,prisma,mongodb,postgresql,redis,docker&theme=dark" />
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwolKoirala&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+      </td>
+    </tr>
+  </table>
+</div>
 
-### **Blockchain & Web3**
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white&labelColor=3C3C3D)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=F16822)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black&labelColor=FFF100)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white&labelColor=65C2CB)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-### **Database & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+        <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-a4d9-4a6a-9dc4-7eec1of92a4e.gif" width="100"><br>
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+      </td>
+      <td align="center" width="50%">
+        <h3>⛓️ **BLOCKCHAIN WIZARD** ⛓️</h3>
+        <img src="https://skillicons.dev/icons?i=solidity,ethereum,web3js,ipfs&theme=dark" />
+        <br>
+        <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black"/>
+        <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>☁️ **CLOUD & DEVOPS NINJA** ☁️</h3>
+        <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,terraform,nginx,linux&theme=dark" />
+        <br><br>
+        <img src="https://github-readme-stats.vercel.app/api?username=PrajwolKoirala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
+        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+### 🎯 **Skill Level Breakdown**
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PrajwolKoirala&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866"/>
+      </td>
+      <td>
+
+**🔥 Expert Level (90%+)**
+- JavaScript/TypeScript ![90%](https://progress-bar.dev/95/?scale=100&title=Expert&width=200&color=babaca&suffix=%)
+- React/Next.js ![90%](https://progress-bar.dev/92/?scale=100&title=Expert&width=200&color=babaca&suffix=%)
+- Node.js ![90%](https://progress-bar.dev/90/?scale=100&title=Expert&width=200&color=babaca&suffix=%)
+
+**⚡ Advanced Level (75%+)**
+- Blockchain/Solidity ![75%](https://progress-bar.dev/85/?scale=100&title=Advanced&width=200&color=babaca&suffix=%)
+- System Design ![75%](https://progress-bar.dev/80/?scale=100&title=Advanced&width=200&color=babaca&suffix=%)
+- DevOps/Cloud ![75%](https://progress-bar.dev/78/?scale=100&title=Advanced&width=200&color=babaca&suffix=%)
+
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -107,6 +237,21 @@ const prajwol: Developer = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwolKoirala&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🐍 **Contribution Snake - Watch My Commits Get Devoured!**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PrajwolKoirala/PrajwolKoirala/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  
+  ### 🔥 **The Snake That Eats My Code Commits!** 🔥
+  *Watch as this hungry snake devours all my GitHub contributions - because even my commits deserve to be consumed by something cool!*
 </div>
 
 ---
@@ -228,14 +373,6 @@ timeline
 
 ---
 
-## 📈 **Contribution Graph**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PrajwolKoirala/PrajwolKoirala/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+open+to+collaboration!+%F0%9F%A4%9D;Have+an+awesome+day!+%E2%9C%A8" alt="Typing SVG" />
 </div>
@@ -248,4 +385,36 @@ timeline
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
+```
 
+## 🐍 **To Enable the Snake Animation, Create This GitHub Action:**
+
+Create a file `.github/workflows/snake.yml` in your repository:
+
+```yaml project="Snake Animation Workflow" file=".github/workflows/snake.yml" type="code"
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: PrajwolKoirala
+          outputs: dist/snake.svg
+          
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
