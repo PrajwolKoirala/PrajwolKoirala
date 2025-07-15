@@ -386,35 +386,3 @@ timeline
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
 ```
-
-## 🐍 **To Enable the Snake Animation, Create This GitHub Action:**
-
-Create a file `.github/workflows/snake.yml` in your repository:
-
-```yaml project="Snake Animation Workflow" file=".github/workflows/snake.yml" type="code"
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: PrajwolKoirala
-          outputs: dist/snake.svg
-          
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
